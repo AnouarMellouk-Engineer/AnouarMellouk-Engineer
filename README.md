@@ -2,7 +2,7 @@
 
 **`Developer/Freelancer/SE Student`**
 
->I'm Anouar , a software engineering student  with a strong passion for web development and teaching. I specialize in building full-stack web applications using modern technologies, with a focus on clean architecture and best coding practices.
+I'm Anouar , a software engineering student  with a strong passion for web development and teaching. I specialize in building full-stack web applications using modern technologies, with a focus on clean architecture and best coding practices.
 
 ---
 
@@ -32,8 +32,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnouarMellouk-Engineer&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
 
 ---
-
-### ⚡ Fun Fact
-> I believe that **clean code + clean design** = great software ✨
 
 
