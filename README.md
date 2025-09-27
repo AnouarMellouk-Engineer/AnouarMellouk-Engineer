@@ -28,7 +28,9 @@ I'm Anouar , a software engineering student  with a strong passion for web devel
 
 ## 📊 GitHub Activity
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnouarMellouk-Engineer&show_icons=true&theme=tokyonight)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnouarMellouk-Engineer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnouarMellouk-Engineer&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
 
