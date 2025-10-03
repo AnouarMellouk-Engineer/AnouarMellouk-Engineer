@@ -28,6 +28,10 @@ I'm Anouar , a software engineering student  with a strong passion for web devel
 
 ## 📊 GitHub Activity
 
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnouarMellouk-Engineer&theme=tokyonight&hide_border=false)
+
+
+
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnouarMellouk-Engineer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600)
 
