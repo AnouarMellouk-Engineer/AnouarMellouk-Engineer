@@ -38,13 +38,7 @@ Building software that is reliable, maintainable, and ready for production.
 - 🏥 **Medical Appointment Platform** - Multi-clinic booking platform connecting patients, doctors, and healthcare providers.
 - 🎓 **E-Learning Platform** - Online learning system with courses, progress tracking, and student management.
 - 🛒 **Laptop eCommerce Platform** - Online store with product catalog, cart, orders, and administration dashboard.
-- 📱 **Social Media Platform** - Community-driven platform focused on content sharing and user engagement.
 
-#### Open Source
-
-- 📦 **Developer Libraries** - Reusable packages and utilities for modern web development.
-- 🎨 **UI Components & Design Systems** - React components and design resources for building consistent user interfaces.
-- ⚙️ **Developer Tools** - Productivity tools and utilities for developers and engineering teams.
 
 ---
 
