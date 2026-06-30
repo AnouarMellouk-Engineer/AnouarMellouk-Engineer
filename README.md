@@ -10,11 +10,7 @@ Specialized in **TypeScript**, **Node.js**, and modern web technologies. Passion
 
 Building software that is reliable, maintainable, and ready for production.
 
-**Links**
-
-- LinkedIn
-- Portfolio
-- Email
+**[Website](https://anouar-mellouk.netlify.app)** · **[LinkedIn](https://www.linkedin.com/in/anouar-mellouk-aa2824330/)** · **[Email](mailto:anouarmellouk.info@gmail.com)**
 
 ---
 
@@ -39,17 +35,16 @@ Building software that is reliable, maintainable, and ready for production.
 
 #### Products
 
-- 🏥 **Medical Appointment Platform** — Multi-clinic booking platform connecting patients, doctors, and healthcare providers.
-- 🎓 **E-Learning Platform** — Online learning system with courses, progress tracking, and student management.
-- 🛒 **Laptop eCommerce Platform** — Complete online store with product catalog, orders, payments, and administration.
-- 📱 **Social Media Platform** — Community-driven platform focused on user interaction and content sharing.
+- 🏥 **Medical Appointment Platform** - Multi-clinic booking platform connecting patients, doctors, and healthcare providers.
+- 🎓 **E-Learning Platform** - Online learning system with courses, progress tracking, and student management.
+- 🛒 **Laptop eCommerce Platform** - Online store with product catalog, cart, orders, and administration dashboard.
+- 📱 **Social Media Platform** - Community-driven platform focused on content sharing and user engagement.
 
 #### Open Source
 
-- 📦 **Developer Libraries** — Reusable packages and utilities for modern web development.
-- 🎨 **UI Components & Design Systems** — Frontend components and design resources.
-- ⚙️ **Developer Tools** — Productivity tools and utilities for developers.
-
+- 📦 **Developer Libraries** - Reusable packages and utilities for modern web development.
+- 🎨 **UI Components & Design Systems** - React components and design resources for building consistent user interfaces.
+- ⚙️ **Developer Tools** - Productivity tools and utilities for developers and engineering teams.
 
 ---
 
