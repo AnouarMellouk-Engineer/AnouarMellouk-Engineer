@@ -31,15 +31,5 @@ Building software that is reliable, maintainable, and ready for production.
 
 ---
 
-### 🚀 Projects
-
-#### Products
-
-- 🏥 **Medical Appointment Platform** - Multi-clinic booking platform connecting patients, doctors, and healthcare providers.
-- 🎓 **E-Learning Platform** - Online learning system with courses, progress tracking, and student management.
-- 🛒 **Laptop eCommerce Platform** - Online store with product catalog, cart, orders, and administration dashboard.
-
-
----
 
 > Building software that solves real problems and creates meaningful value.
