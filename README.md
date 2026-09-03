@@ -6,7 +6,7 @@ Software Engineer with **3+ years of experience**, focused primarily on **backen
 Specialized in **Go**, **TypeScript**, and **Java**, with a strong interest in **System Design** and **Clean Architecture**.
 Building software that is reliable, maintainable, and ready for production.
 
-**[Website](https://anouar-mellouk.netlify.app)** · **[LinkedIn](https://www.linkedin.com/in/anouar-mellouk-aa2824330/)** · **[Email](mailto:anouarmellouk.info@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/anouar-mellouk-aa2824330/)** · **[Email](mailto:anouarmellouk.info@gmail.com)**
 
 ---
 
